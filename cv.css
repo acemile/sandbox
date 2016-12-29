@@ -1,0 +1,51 @@
+#header {
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+#logo {
+    margin-bottom: 40;
+}
+
+#banner {
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+#banner div {
+    padding: 10px 5px;
+    color: whitesmoke;
+}
+
+#banner div a {
+    padding: 5px;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+#skills,
+#languages,
+#certs,
+#education,
+#likes {
+    margin-bottom: 10px;
+}
+
+#likes div  {
+    text-align: center;
+}
+
+#likes div span  {
+    font-size: 33px;
+    padding: 7px;
+}
+
+#exp,
+#volunteer {
+    padding: 5 15;
+    margin-bottom: 20px;
+}
+
+#exp p {
+    margin-bottom: 20;
+}
